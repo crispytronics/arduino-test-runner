@@ -11,5 +11,9 @@
     "testing"
   ],
   "author": "Kris Barrett",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.3",
+    "serialport": "^1.4.6"
+  }
 }

@@ -2,7 +2,7 @@
   "name": "arduino-test-runner",
   "version": "0.1.0",
   "description": "Utility for displaying the output of Arduino sketches that use the Arduino TestRunner utility.",
-  "main": "lib/testrunner",
+  "main": "lib/test_runner.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

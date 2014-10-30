@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var cli = require('cli');
 var TestRunner = require('../lib/test_runner');
 

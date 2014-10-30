@@ -1,5 +1,5 @@
 # Arduino Test Runner
-A utility for running hardware tests on Arduino inspired by [Mocha](https://github.com/mochajs/mocha).  Tests are implemented on the Arduino using the [TestRunner](https://github.com/crispytronics/TestRunner) library and the results are displayed by running this utility.
+A utility for running hardware tests on Arduino inspired by [Mocha](https://github.com/mochajs/mocha).  Tests are implemented on the Arduino using the [TestRunner](https://github.com/crispytronics/TestRunner) library.  Tests are run and the results are aggregated by running this utility.
 
 ## Prerequisites
 Write your Arduino tests using the [TestRunner](https://github.com/crispytronics/TestRunner) library.

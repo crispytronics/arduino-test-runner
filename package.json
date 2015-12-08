@@ -1,6 +1,6 @@
 {
   "name": "arduino-test-runner",
-  "version": "0.1.1",
+  "version": "0.1.22",
   "description": "Utility for displaying the output of Arduino sketches that use the Arduino TestRunner utility.",
   "main": "lib/test_runner.js",
   "scripts": {
@@ -19,5 +19,9 @@
     "cli": "^0.6.5",
     "colors": "^1.0.3",
     "serialport": "^1.4.6"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/crispytronics/arduino-test-runner.git"
   }
 }

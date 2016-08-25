@@ -1,6 +1,6 @@
 {
   "name": "arduino-test-runner",
-  "version": "0.1.22",
+  "version": "0.1.4",
   "description": "Utility for displaying the output of Arduino sketches that use the Arduino TestRunner utility.",
   "main": "lib/test_runner.js",
   "scripts": {
